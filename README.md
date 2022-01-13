@@ -1,3 +1,4 @@
+HELLO THERE!
 - 👋 Hi, I’m @MCss-18
 - 👀 I’m interested in technology and informatic
 - 🌱 I’m currently learning Python and JavaScript
