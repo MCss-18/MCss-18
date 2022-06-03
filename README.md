@@ -5,6 +5,8 @@
 1. Pyhton
 2. Java
 3. JavaScript
+4. CSS
+5. HTML
 - HTML is not a programming language
 
 <!---
