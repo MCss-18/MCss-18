@@ -1,6 +1,6 @@
 # HELLO WORLD! 👋
 - 👋 Hi, I’m MC Renzo
-- 👀 I’m interested in technology and informatic
+- 👀 I’m a software engineering student
 ## Skills
 1. Pyhton
 2. Java
