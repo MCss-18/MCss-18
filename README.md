@@ -7,7 +7,6 @@
 3. JavaScript
 4. CSS
 5. HTML
-- HTML is not a programming language
 
 <!---
 MCss-18/MCss-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
