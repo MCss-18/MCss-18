@@ -7,7 +7,6 @@
 3. CSS
 4. HTML
 5. Bootstrap
-6. 
 
 <!---
 MCss-18/MCss-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
