@@ -2,11 +2,12 @@
 - 👋 Hi, I’m MC Renzo
 - 👀 I’m a software engineering student
 ## Skills
-1. Pyhton
-2. Java
-3. JavaScript
-4. CSS
-5. HTML
+1. Java
+2. JavaScript
+3. CSS
+4. HTML
+5. Bootstrap
+6. 
 
 <!---
 MCss-18/MCss-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
