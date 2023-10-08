@@ -1,7 +1,6 @@
-# HELLO WORLD! 👋
-- 👋 Hi, I’m MC Renzo
-- 👀 I’m a software engineering student
-## Skills
+# print('HELLO WORLD!!👋')
+I’m currently a software engineering student.
+## Skills 
 1. Java
 2. JavaScript
 3. CSS
