@@ -9,7 +9,7 @@
 - 💞️ I’m open to collaborations on interesting projects related to programming, web development, or UX/UI design.
 
 ### Tech & Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css,nodejs)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)
